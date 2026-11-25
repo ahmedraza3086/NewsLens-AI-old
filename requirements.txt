@@ -1,0 +1,13 @@
+
+pandas
+numpy
+scikit-learn
+matplotlib
+streamlit
+langchain
+langchain-community
+langchain-ollama
+langgraph
+ddgs
+requests
+beautifulsoup4
